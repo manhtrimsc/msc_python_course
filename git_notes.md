@@ -1,0 +1,1 @@
+-e "git init\ngit add\ngit commit\ngit status\ngit push" 
